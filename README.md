@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align = "center">Hey there , I am Vatsal Bhuva 👋</h1>
 
-<!--
-**VatsalBhuva11/VatsalBhuva11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- I am a `Sophomore` at [Indian Institute of Information Technology , Allahbad](https://www.iiita.ac.in/)
+- I am currently pursuing `Information Technology`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+<div id = "badges" align = "center">
+  <a href = "https://www.linkedin.com/in/rishi-upadhyay-a4417a250/">
+  <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    </a>
+  <a href = "rupadhyay2674@gmail.com">
+  <img src = "https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=for-the-badge">
+    </a>
+  <a href = "https://www.instagram.com/rishii_2674/">
+  <img src = "https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge">
+    </a>
+</div>
+
+
+## 🖥️ Github Profile Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VatsalBhuva11&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalBhuva11&langs_count=5&theme=tokyonight)]()
+
+## 📊 Recent Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VatsalBhuva11&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
