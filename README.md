@@ -10,13 +10,13 @@
 
 ## 🔗 Connect With Me
 <div id = "badges" align = "center">
-  <a href = "https://www.linkedin.com/in/rishi-upadhyay-a4417a250/">
+  <a href = "https://www.linkedin.com/in/vatsal-bhuva-673587233/">
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
-  <a href = "rupadhyay2674@gmail.com">
+  <a href = "vatsalbhuva11@gmail.com">
   <img src = "https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=for-the-badge">
     </a>
-  <a href = "https://www.instagram.com/rishii_2674/">
+  <a href = "https://www.instagram.com/_.vb11/">
   <img src = "https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge">
     </a>
 </div>
