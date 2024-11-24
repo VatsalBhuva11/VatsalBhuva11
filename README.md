@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-- I am a `Sophomore` at [Indian Institute of Information Technology , Allahabad](https://www.iiita.ac.in/)
+- I am a `Pre-Final Year Student` at [Indian Institute of Information Technology , Allahabad](https://www.iiita.ac.in/)
 - I am currently pursuing `Information Technology`.
 
 ## 🔗 Connect With Me
