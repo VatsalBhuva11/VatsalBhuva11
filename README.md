@@ -5,8 +5,9 @@
 </div>
 
 ## 🚀 About Me
-- I am a `Pre-Final Year Student` at [Indian Institute of Information Technology , Allahabad](https://www.iiita.ac.in/)
+- I am a `Final Year Student` at [Indian Institute of Information Technology , Allahabad](https://www.iiita.ac.in/)
 - I am currently pursuing `Information Technology`.
+- My current CGPA is 9.21/10.
 
 ## 🔗 Connect With Me
 <div id = "badges" align = "center">
