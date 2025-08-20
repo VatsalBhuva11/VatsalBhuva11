@@ -8,9 +8,13 @@
 - I am a `Final Year Student` at [Indian Institute of Information Technology , Allahabad](https://www.iiita.ac.in/)
 - I am currently pursuing `Information Technology`.
 - My current CGPA is 9.21/10.
+- I'm particularly interested in full-stack development and DevOps but keen on learn anything and everything about tech!
 
 ## 🔗 Connect With Me
 <div id = "badges" align = "center">
+  <a href = "https://vatsalbhuva.me">
+  <img src = "https://img.shields.io/badge/Portfolio-Green?style=for-the-badge">
+    </a>
   <a href = "https://www.linkedin.com/in/vatsal-bhuva-673587233/">
   <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
@@ -21,11 +25,3 @@
   <img src = "https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge">
     </a>
 </div>
-
-
-## 🖥️ Github Profile Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VatsalBhuva11&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalBhuva11&langs_count=5&theme=tokyonight)]()
-
-## 📊 Recent Activity Graph
-[![Vatsal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VatsalBhuva11&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=false)](https://github.com/VatsalBhuva11/github-readme-activity-graph)
